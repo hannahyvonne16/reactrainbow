@@ -1,6 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
-import React, { useState } from 'react';
+import React from 'react';
+import { useState } from 'react';
 import ColorBlock from './ColorBlock';
 import ColorForm from './ColorForm.js';
 
